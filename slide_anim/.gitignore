@@ -1,0 +1,5 @@
+slides/
+media/
+__pycache__/
+*.pyc
+output/*.mp4

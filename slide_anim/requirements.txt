@@ -1,0 +1,4 @@
+manim==0.21.0
+manim-slides==5.7.0
+pillow<12
+matplotlib
